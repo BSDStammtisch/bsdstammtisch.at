@@ -30,7 +30,7 @@ Taken by all the awesome people who attended BSDStammtisch.
 ## Agenda
 - Reports
 	- What has happened since the last Stammtisch? (MacLemon)
-  - We have [something like a website](https://bsdstammtisch.at/).
+  - We have [something like a website](/).
   	- The old wien. and graz. hostnames are automatically redirected to the main site
   - We have a [Twitter](https://twitter.com/) account: [@bsdstammtisch](https://twitter.com/bsdstammtisch)
   - We have a [Mastodon](https://mastodon.social/about) account on a BSD focused instance. [@BSDStammtisch@bsd.network](https://bsd.network/@bsdstammtisch) (Mastodon is opensource, federated, awesome and friendly better Twitter)
