@@ -25,4 +25,4 @@ Matrix: [#bug_austria:matrix.org](matrix://#bug_austria:matrix.org)
 
 ## Calendar Subscription
 So you never miss a meeting we publish our meeting schedule as a standard .ics calendar file you can subscribe to. There are no reminders or alerts in that calendar.  
-To subscribe use your favorite calendar client and point it to [https://bsdstammtisch.at/calendar/wien](https://bsdstammtisch.at/calendar/wien). Setting your calendar client to automatically update the schedule somewhere between daily and weekly should be enough.
+To subscribe use your favorite calendar client and point it to [bsdstammtisch.at/calendar/wien](/calendar/wien). Setting your calendar client to automatically update the schedule somewhere between daily and weekly should be enough.
