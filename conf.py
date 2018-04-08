@@ -24,7 +24,7 @@ BLOG_TITLE = "BSDStammtisch"  # (translatable)
 SITE_URL = "/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://bsdstammtisch.at/"
+BASE_URL = "/"
 BLOG_EMAIL = "webmaster@bsdstammtisch.at"
 BLOG_DESCRIPTION = "A monthly meetup for BSD enthusiasts, beginners and experts in Vienna/Austria. All people are welcome!"  # (translatable)
 
