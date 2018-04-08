@@ -37,7 +37,7 @@ Free for all people interested in learning or discussing about all things BSD! Y
 - What has happened since the last BSDStammtisch?
 	- We can haz new Logo, already in use on [Twitter](https://twitter.com/BSDStammtisch) and [Mastodon](https://bsd.network/@BSDStammtisch)
 	- MacLemon didn't manage to get the website styled in time, sorry for that. It's on the plan for our April meeting.
-  - We now have a standard `.ics` calendar you can subscribe to, so you never miss a meeting! [Calendar subscription for BSDStammtisch Wien](https://bsdstammtisch.at/calendar/wien) There are no alerts or reminders in that calendar, we respect the privilege granted by being in your calendar.
+  - We now have a standard `.ics` calendar you can subscribe to, so you never miss a meeting! [Calendar subscription for BSDStammtisch Wien](/calendar/wien) There are no alerts or reminders in that calendar, we respect the privilege granted by being in your calendar.
 
 ### Main Topic: Jails, `jails.conf` and jails networking
 Thanks to karu and dch for the huge influx of jail related info in their talks!
