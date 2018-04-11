@@ -55,7 +55,7 @@ Problems I have:
 2. Server and/or HDDs should hibernate when not in use and only power on when server is accessed.
 3. Related to today's topic a backup strategy under ZFS for a 2-bay server is needed. One HDD should be able to rollback file versions for 6 months and sychronize itself once per week with the primary disk - rsync.
 
-#### Mixed backup tools for FreeBSD used by peopl
+#### Mixed backup tools for FreeBSD used by people
 - [sysutils/restic](https://restic.net/) (incremental, deduplication, local encryption, destination can be SFTP, S3, HTTPS, local disk, etc.)
 - [net/rsync](https://rsync.samba.org/) (incremental, hardlinks, destination can be local or remote storage via SSH or rsync protocol.)
 - [sysutils/tarsnap](https://www.tarsnap.com/) (commercial, client FOSS, local encryption, destination is hosted cloud storage)
