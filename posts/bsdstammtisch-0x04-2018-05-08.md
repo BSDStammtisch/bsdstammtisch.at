@@ -30,4 +30,4 @@ Free for all people interested in learning or discussing about all things BSD! Y
 
 ## Shownotes 📝
 Please help with keeping minutes during the meeting! They help others to read up afterwards.  
-Pad for collaborative note taking](https://pads.c3w.at/code/#/1/edit/LLE5YURIRm8CJLg1XLO8UA/B1xO7GYox41nhEn0FKIDy5Rq/)
+[Pad for collaborative note taking](https://pads.c3w.at/code/#/1/edit/LLE5YURIRm8CJLg1XLO8UA/B1xO7GYox41nhEn0FKIDy5Rq/)
