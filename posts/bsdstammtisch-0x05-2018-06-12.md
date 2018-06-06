@@ -1,4 +1,4 @@
-.. title: BSDStammtisch Wien 0x04 2018-05-08
+.. title: BSDStammtisch Wien 0x05 2018-06-12
 .. slug: bsdstammtisch-0x04-2018-06-12
 .. date: 2018-06-12 14:22:42 UTC+02:00
 .. tags: stammtisch, show and tell
