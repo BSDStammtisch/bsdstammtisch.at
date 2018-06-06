@@ -8,7 +8,7 @@
 .. type: text
 
 
-## Next meeting 🗓
+## Past meeting 🗓
 Tuesday, 2018-05-08, 19:00 (CEST)
 
 
