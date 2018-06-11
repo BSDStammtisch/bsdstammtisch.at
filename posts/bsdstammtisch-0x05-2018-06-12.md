@@ -1,6 +1,6 @@
 .. title: BSDStammtisch Wien 0x05 2018-06-12
 .. slug: bsdstammtisch-0x04-2018-06-12
-.. date: 2018-05-30 14:22:42 UTC+02:00
+.. date: 2018-06-10 16:22:42 UTC+02:00
 .. tags: stammtisch, show and tell
 .. category: stammtisch
 .. link: 
@@ -11,7 +11,6 @@
 ## Next meeting 🗓
 Tuesday, 2018-06-12, 19:00 (CEST)
 
-
 ## Location 🗺
 To be announced.  
 
@@ -21,6 +20,8 @@ Free for all people interested in learning or discussing about all things BSD! Y
 
 ## Topics 
 - Please present your topic!
+- pkg(8) and ports best practices, tips and tricks
+- how to package software for OpenBSD and FreeBSD
 - Show and Tell
 	- Show us your quick tips and tricks, the tools you use or recently discovered, be it CLI, GUI, web services, that chocolate chip cookie recipe, a book or conference recording, anything goes. No need to prepare anything.
 - Chit chat, food and drinks afterwards
