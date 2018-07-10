@@ -20,7 +20,7 @@ Free for all people interested in learning or discussing about all things BSD! Y
 
 ## Topics
 - ZFS boot-environments and beadm(8)
-- #oneWeekOneTool collective self-paced learning
+- \#oneWeekOneTool collective self-paced learning
 - tmux(1), a terminal multiplexer
 - Enough rope to shoot yourself in the foot with ZFS compression and freebsd-update(8)
 - Spectre and Meltdown mitigations with microcode deployments
