@@ -43,7 +43,7 @@ http://callfortesting.org/bhyve-boot-environments/
 - name: freebsd-update | push /root/freebsd-update.sh script
 
 `/root/freebsd-update.shi`  
-´´´shell
+```shell
 #!/bin/sh -e
 # ansible managed
 /bin/freebsd-version -ku
