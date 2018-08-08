@@ -42,23 +42,24 @@ http://callfortesting.org/bhyve-boot-environments/
 
 - name: freebsd-update | push /root/freebsd-update.sh script
 
-´´´shell  /root/freebsd-update.sh
-      #!/bin/sh -e
-      # ansible managed
-      /bin/freebsd-version -ku
-      export PAGER="/bin/cat -bu"
-      cd /etc
-      test -d .git || git init .
-      git add -A
-      git commit --allow-empty -am `freebsd-version -ku | sort -r |head -1`-update
-      zfs snapshot -r zroot@`date -u +%Y%m%d-%H%M`:`freebsd-version -ku | sort -r |head -1`-update
-      beadm create `freebsd-version -ku | sort -r |head -1`-update
-      /usr/sbin/freebsd-update --not-running-from-cron fetch install || /usr/bin/true
-      echo OK freebsd-update complete
-      echo OK List Boot Environments
-      beadm list
-      echo now run "pkg update" and confirm that the changes/reinstall/updates
-      echo are as expected. Once that has completed, sacrifice a goat and reboot.
+`/root/freebsd-update.shi`  
+´´´shell
+#!/bin/sh -e
+# ansible managed
+/bin/freebsd-version -ku
+export PAGER="/bin/cat -bu"
+cd /etc
+test -d .git || git init .
+git add -A
+git commit --allow-empty -am `freebsd-version -ku | sort -r |head -1`-update
+zfs snapshot -r zroot@`date -u +%Y%m%d-%H%M`:`freebsd-version -ku | sort -r |head -1`-update
+beadm create `freebsd-version -ku | sort -r |head -1`-update
+/usr/sbin/freebsd-update --not-running-from-cron fetch install || /usr/bin/true
+echo OK freebsd-update complete
+echo OK List Boot Environments
+beadm list
+echo now run "pkg update" and confirm that the changes/reinstall/updates
+echo are as expected. Once that has completed, sacrifice a goat and reboot.
 ```
 
 
