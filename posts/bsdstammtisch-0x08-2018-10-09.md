@@ -1,4 +1,4 @@
-.. title: BSDStammtisch Wien 0x0r8 2018-10-09
+.. title: BSDStammtisch Wien 0x08 2018-10-09
 .. slug: bsdstammtisch-0x08- 2018-10-09
 .. date: 2018-09-04 16:22:42 UTC+02:00
 .. tags: stammtisch, show and tell
