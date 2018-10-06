@@ -4,7 +4,7 @@
 .. tags: stammtisch, show and tell
 .. category: stammtisch
 .. link: 
-.. description: BSDStammtisch 0x06
+.. description: BSDStammtisch 0x07
 .. type: text
 
 
