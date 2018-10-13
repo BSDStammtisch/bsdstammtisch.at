@@ -19,7 +19,8 @@ Free for all people interested in learning or discussing about all things BSD! Y
 
 
 ## Topics
-- To be announced!
+- Current CPU vulnerabilites
+    - You may have heard of Spectre and Meltdown, and maybe others as well.
 - Got a topic you'd like to present on? Please do!
 
 - Please present your topic!
