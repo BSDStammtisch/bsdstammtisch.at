@@ -8,7 +8,7 @@
 .. type: text
 
 
-## Next meeting 🗓
+## Past meeting 🗓
 Tuesday, 2018-10-09, 19:00 (CEST)
 
 ## Location 🗺
@@ -116,5 +116,5 @@ Signing zones in DNSSEC requires a KSK (Key-Signing-Key), which should be held o
 Both of these keys can be generated with the help of the ldns-utils package, which also provides commands for zone signing. So it's easy to sign your zone.
 *But*: Many DNS providers don't support DS (Delegation signer) records, which need to be present in the (signed) parent zone and contain a hash of the public KSK part.
 
-unbound []guide for DNS and DNS-over TLS](https://calomel.org/unbound_dns.html) with config samples
+unbound ]guide for DNS and DNS-over TLS](https://calomel.org/unbound_dns.html) with config samples
 
