@@ -1,6 +1,6 @@
 .. title: BSDStammtisch Wien 0x09 2018-11-13
 .. slug: bsdstammtisch-0x09_2018-11-13
-.. date: 2018-10-13 :22:42 UTC+02:00
+.. date: 2018-10-13 22:22:42 UTC+02:00
 .. tags: stammtisch, show and tell
 .. category: stammtisch
 .. link: 
