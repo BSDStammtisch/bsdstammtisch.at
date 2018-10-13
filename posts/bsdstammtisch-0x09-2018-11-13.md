@@ -9,7 +9,7 @@
 
 
 ## Next meeting 🗓
-Tuesday, 2018-11-13, 19:00 (CEST)
+Tuesday, 2018-11-13, 19:00 (CET)
 
 ## Location 🗺
 To be announced.
