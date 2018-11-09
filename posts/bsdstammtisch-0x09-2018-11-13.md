@@ -9,7 +9,7 @@
 
 
 ## Next meeting 🗓
-Tuesday, 2018-11-13, 19:00 (CET)
+Tuesday, 2018-11-13, **20**:00 (CET) - Caution, an hour later than usual due to limitations in room availability!
 
 ## Location 🗺
 To be announced.
