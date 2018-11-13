@@ -12,7 +12,8 @@
 Tuesday, 2018-11-13, **20**:00 (CET) - Caution, an hour later than usual due to limitations in room availability!
 
 ## Location 🗺
-To be announced.
+Seminarraum Technische Informatik, [Operngasse 9, 1040 Wien](https://www.openstreetmap.org/node/419270986#map=18/48.19964/16.36698&layers=C) Public Transport: U1, U2, U4      Karlsplatz, Bus 59A Bärenmühldurchgang, Nightline N60, N62, N66, N71, Tram 2 (within reasonable walking distance) Bicycle parking: [Just around the corner](https://www.   openstreetmap.org/node/419270986#map=18/48.19964/16.36698&layers=C) 
+
 
 ## Attendance 🎟
 Free for all people interested in learning or discussing about all things BSD! You are welcome!
@@ -21,6 +22,9 @@ Free for all people interested in learning or discussing about all things BSD! Y
 ## Topics
 - Current CPU vulnerabilites
     - You may have heard of Spectre and Meltdown, and maybe others as well.
+- FreeBSD 10.4 EOL
+- FreeBSD 12 upcoming
+- Book: Absolute FreeBSD, 3rd edition, by Michael W. Lucas
 - Got a topic you'd like to present on? Please do!
 
 - Please present your topic!
