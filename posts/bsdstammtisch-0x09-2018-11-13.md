@@ -25,6 +25,7 @@ Free for all people interested in learning or discussing about all things BSD! Y
 - FreeBSD 10.4 EOL
 - FreeBSD 12 upcoming
 - Book: Absolute FreeBSD, 3rd edition, by Michael W. Lucas
+- BSD powered high-availability gummibaerlampchen talking to hardware using BSD and one-wire and some random hacks
 - Got a topic you'd like to present on? Please do!
 
 - Please present your topic!
