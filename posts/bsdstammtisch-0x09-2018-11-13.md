@@ -20,20 +20,23 @@ Free for all people interested in learning or discussing about all things BSD! Y
 
 
 ## Topics
-- Current CPU vulnerabilites
-    - You may have heard of Spectre and Meltdown, and maybe others as well.
 - FreeBSD 10.4 EOL
 - FreeBSD 12 upcoming
 - Book: Absolute FreeBSD, 3rd edition, by Michael W. Lucas
 - BSD powered high-availability gummibaerlampchen talking to hardware using BSD and one-wire and some random hacks
 - Got a topic you'd like to present on? Please do!
 
-- Please present your topic!
-- Show and Tell
-	- Show us your quick tips and tricks, the tools you use or recently discovered, be it CLI, GUI, web services, that chocolate chip cookie recipe, a book or conference recording, anything goes. No need to prepare anything.
-- Chit chat, food and drinks afterwards
+- [FreeBSD 10.4-RELEASE] reached [End of Life Status](https://www.freebsd.org/security/unsupported.html) on 2018-10-31.
+- [FreeBSD 12](https://www.freebsd.org/news/newsflash.html#event20181110:01) is coming (At BETA 4 at the time of this writing.)
+- Book: [Absolute FreeBSD, 3rd edition](https://nostarch.com/absfreebsd3) (No Starch Press), by [Michael W. Lucas](https://www.tiltedwindmillpress.com
+- BSD powered high-availability gummibärlämpchen talking to hardware using BSD and one-wire and some random hacks
+OneWire is a serial like protocol that requires *two* wires and is designed for up to three wires. With a USB to OneWire Adapter you can control the relays which turn on and off the bears.
+Goal is to run [RTEMS](https://www.rtems.org/) on a [GRiSP Board](https://www.grisp.org/specs/) which is used to run [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)) applications on a realtime operating system. The GRiSP board sports a FreeBSD network stack, so networking is stable and performant.
 
+There's also [Jenkins integration](https://wiki.jenkins.io/pages/viewpage.action?pageId=20250625) for the “Red Bear alert”.
 
-## Shownotes 📝
-Please help with keeping minutes during the meeting! They help others to read up afterwards.  
-[Pad for collaborative note taking](https://pads.c3w.at/code/#/2/code/edit/0JZstBwYHXbPnMGRW8xGRMmI/)
+- [Geek and Poke](http://geek-and-poke.com/) Webcomic on [Best of both worlds](https://geekandpoke.typepad.com/.a/6a00d8341d3df553ef0120a830136e970b-pi) regarding statically typed languages. In General *Geek and Poke* is recommended reading for any sysadmin or developer.
+
+Build your own [Gummibear Server](https://hackmd.io/s/B1WM_3_pm#)!
+
+Inspired? Have a look at more [Blinkenlights](http://blinkenlights.net/blinkenlights) projects!
