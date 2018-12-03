@@ -13,7 +13,7 @@ Tuesday, 2018-12-11, 19:00 (CET)
 
 ## Location 🗺
 **Caution**, not our usual location at TU-Wien!
-SBA Research Favoritenstraße 16, 1. Stock  
+SBA Research [Favoritenstraße 16](https://www.openstreetmap.org/node/2984100905#map=16/48.1960/16.3703&layers=T), 1. Stock  
 
 Reachable via public transport: U1, N66, Taubstummengasse and 3 minutes walk. (Exit Taubstummengasse/Floragasse)
 
