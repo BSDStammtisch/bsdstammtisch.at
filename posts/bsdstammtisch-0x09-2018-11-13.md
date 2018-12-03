@@ -8,7 +8,7 @@
 .. type: text
 
 
-## Next meeting 🗓
+## Past meeting 🗓
 Tuesday, 2018-11-13, **20**:00 (CET) - Caution, an hour later than usual due to limitations in room availability!
 
 ## Location 🗺
