@@ -21,6 +21,11 @@ Free for all people interested in learning or discussing about all things BSD! Y
 
 ## Topics
 - FreeBSD 12 is out
+    - Fun with upgrades to 12
+    - VIMAGE Jails now default
+- FOSDEM19 happened
+- Grazer Linuxtage upcoming
+- Wiener Linuxwochen upcoming or so
 - Ansible on FreeBSD with new energy!
 - FreeBSD finally starts with (incomplete) ASR patch.
 
