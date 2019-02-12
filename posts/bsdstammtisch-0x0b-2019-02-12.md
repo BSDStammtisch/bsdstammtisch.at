@@ -26,7 +26,7 @@ Free for all people interested in learning or discussing about all things BSD! Y
 - FOSDEM19 happened
 - Grazer Linuxtage upcoming
 - Wiener Linuxwochen upcoming or so
-- Ansible on FreeBSD with new energy!
+- Ansible on FreeBSD with new energy! - [BSD Community Pinboard](https://github.com/ansible/community/issues/430)
 - FreeBSD finally starts with (incomplete) ASR patch.
 
 - Please present your topic!
