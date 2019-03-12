@@ -8,7 +8,7 @@
 .. type: text
 
 
-## Next meeting 🗓
+## Past meeting 🗓
 Tuesday, 2019-02-12 19:00 (CET)
 
 ## Location 🗺
@@ -36,5 +36,4 @@ Free for all people interested in learning or discussing about all things BSD! Y
 
 
 ## Shownotes 📝
-Please help with keeping minutes during the meeting! They help others to read up afterwards.  
-[Pad for collaborative note taking](https://pads.c3w.at/code/#/2/code/edit/oAznk1j6U+DnNwX9l0jxrrJm/)
+Due to a problem with the location we ended up just having a chat and drinks in a nearby pub. Sadly the noise level there was beyond what makes discussion viable and we were impacted by severe lack of internet access as well. We had a nice evening, but didn't get very far talking about our topics, so no mentionable shownotes for this meeting sadly. We'll put them up again in our March meeting.
