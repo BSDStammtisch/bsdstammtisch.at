@@ -8,11 +8,11 @@
 .. type: text
 
 
-## Next meeting 🗓
+## No meeting 🗓
 Wednesday, 2019-05-15 19:00 (CEST)
 
 ## Location 🗺
-To be announced.  
+Sorry, we don't have a location to meet, so we have to cancel today's meeting.
 
 
 ## Attendance 🎟
