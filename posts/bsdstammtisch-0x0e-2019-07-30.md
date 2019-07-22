@@ -22,10 +22,14 @@ Free for all people interested in learning or discussing about all things BSD! Y
 
 
 ## Topics
-Please present your topic!
+### Building a container infrastructure based on FreeBSD Jails with Ansible
+Nowadays container technologies like Docker are the first thing you here when the question on how to deploy and manage (micro) services. However, FreeBSD already has lots of features out of the box that can be used to implement lots of the wanted characteristics, but there is still a need for glue code to integrate it into a complete solution.
+
 
 ### Show and Tell
 Any interesting problems or solutions you have encountered recently? Please share your experiences, so we can all benefit!
+
+- Zammad 3.0 cannot be deployed on FreeBSD anymore, because libv8 doesn't build on FreeBSD.
 
 ## Shownotes
 We do have a [Pad for collaborative note taking](https://pads.c3w.at/code/#/2/code/edit/XYwio2kiPkmDnlUG5UeglGg-/)
